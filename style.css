@@ -1,0 +1,21 @@
+#title{
+    width: 100%;
+    height: 74px;
+    background-color: #20ff90;
+}
+#title:hover{
+    background-color: #20ff90;
+}
+#canvas{
+    border-style: dashed;
+    width:400;
+    height:295;
+}
+canvas{
+    animation-name: animationn;
+    animation-duration:2.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes animationn{
+
+}
